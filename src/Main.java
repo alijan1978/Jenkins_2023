@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         for (int i = 0; i <= 20; i++) {
-            System.out.println("This is the Jenkins class!");
+            System.out.println("This is the Jenkins class and I want to learn it!");
             Thread.sleep(1000);
         }
 
